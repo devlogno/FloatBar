@@ -10,7 +10,7 @@ When you use the FloatBar Apps extension, you can trust that your privacy is my 
 I do not track your browsing history, analytics, keystrokes, or usage patterns. I have no backend servers, which means there is absolutely nowhere for your data to be sent.
 
 ## 2. 100% Local Storage
-Any settings you configure—such as the names, URLs, and icons of the apps you save to your sidebar, or your preferred Always-on-Top window dimensions—are saved exclusively on your own computer using your browser's local offline storage engine (`chrome.storage.local`). This data never leaves your device.
+Any settings you configure—such as the names, URLs, and icons of the apps you save to your floating bar, or your preferred Always-on-Top window dimensions—are saved exclusively on your own computer using your browser's local offline storage engine (`chrome.storage.local`). This data never leaves your device.
 
 ## 3. No Accounts Required
 You do not need to create an account, log in, or provide an email address to use this extension.
