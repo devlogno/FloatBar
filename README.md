@@ -25,10 +25,14 @@ Say goodbye to losing track of your most important tools in a sea of messy brows
 3. Click the **(+)** button to add your first web app!
 4. Right-click on any site and use the context menu to make the page "Always on Top" or add it to FloatBar.
 
+## Privacy
+
+Please review our [Privacy Policy](PRIVACY.md) to learn more about how we protect your data.
+
 ## Contributing
 
 We welcome contributions! Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is open-source. (Please refer to the LICENSE file for more information).
+This project is open-source. (Please refer to the [LICENSE](LICENSE) file for more information).

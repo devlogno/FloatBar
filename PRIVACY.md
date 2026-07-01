@@ -21,7 +21,7 @@ When you use the "Pop Out" (Always-on-Top) feature, the extension simply acts as
 ## Changes to this Policy
 By installing and using the extension, you agree to this absolute privacy guarantee. If this policy ever changes (which I do not anticipate, as my architecture is fully local and serverless), I will update this page accordingly.
 
-## Contact Me
+## Contact Us
 If you have any questions, bug reports, or feature requests regarding FloatBar Apps, please feel free to reach out!
 
 **Email:** [lognodev7@gmail.com](mailto:lognodev7@gmail.com)
