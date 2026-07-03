@@ -1,6 +1,6 @@
 {
   "appName": { "message": "FloatBar Apps Always On Top" },
-  "appDesc": { "message": "FloatBar stays fixed to your browser, launching web apps in floating windows that can remain pinned on top of other apps." },
+  "appDesc": { "message": "Your ultimate productivity dock! FloatBar slides from the edge to launch apps in floating, always-on-top windows." },
   "howToUse": { "message": "How to Use" },
   "floatBarApps": { "message": "FloatBar Apps" },
   "instructions": { "message": "Just move your mouse toward the <span class=\"highlight\">right edge of the screen</span> on any site to open it, hit the <b>+</b> button, and add your favorite web apps!" },
