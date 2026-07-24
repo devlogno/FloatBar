@@ -4,6 +4,8 @@ Your Ultimate Productivity Dock! Transform the way you multitask with a sleek, i
 
 [**Get it on the Chrome Web Store**](https://chromewebstore.google.com/detail/lcdcllbfkiepddipeepngmiphknmofem)
 
+[![Video Title](https://img.youtube.com/vi/1i3Jh0aBHDitybLO/maxresdefault.jpg)](https://youtu.be/JRy_BgaIMZQ?si=1i3Jh0aBHDitybLO)
+
 ## Overview
 
 Say goodbye to losing track of your most important tools in a sea of messy browser tabs. FloatBar is a beautifully designed, globally accessible app dock that lives out of sight on the edge of your screen. Just flick your mouse to the right edge of any webpage, and your personal FloatBar slides into view, ready to launch your favorite web apps instantly.
