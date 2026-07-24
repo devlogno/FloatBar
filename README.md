@@ -4,7 +4,7 @@ Your Ultimate Productivity Dock! Transform the way you multitask with a sleek, i
 
 [**Get it on the Chrome Web Store**](https://chromewebstore.google.com/detail/lcdcllbfkiepddipeepngmiphknmofem)
 
-[![Watch the video](https://img.youtube.com/vi/JRy_BgaIMZQ/maxresdefault.jpg)](https://youtu.be/JRy_BgaIMZQ)
+![FloatBar Preview](https://raw.githubusercontent.com/devlogno/FloatBar/main/Floatbar.gif)
 
 ## Overview
 
